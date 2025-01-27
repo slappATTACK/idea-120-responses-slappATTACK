@@ -8,4 +8,4 @@ Only Eliza would understand my problem
 
 ![Cartoon of child talking with AI robot.](chatting_with_AI_01.jpeg)  
 ![Robot hand and human hand touching.](robot.jpeg)  
-[AI is Dangerous, but Not for the Reason You Think]([https://youtu.be/eXdVDhOGqoE?feature=shared]
+[AI is Dangerous, but Not for the Reason You Think][https://youtu.be/eXdVDhOGqoE?feature=shared]
