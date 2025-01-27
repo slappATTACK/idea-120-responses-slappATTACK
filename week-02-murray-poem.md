@@ -5,3 +5,5 @@ But she understands me
 But I am not allowed to talk to Eliza anymore  
 They say I connected too deeply with her and need real communication  
 Only Eliza would understand my problem  
+
+![Cartoon of child talking with AI robot.](chatting_with_AI_01.jpeg)
